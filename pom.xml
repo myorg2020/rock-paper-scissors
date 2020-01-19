@@ -1,7 +1,7 @@
 <project>
 	<modelVersion>4.0.0</modelVersion>
 	<!-- interesting -->
-	<groupId>com.mcnz.rps</groupId>
+	<groupId>com.plat.conf.common</groupId>
 	<artifactId>roshambo</artifactId>
 	<version>1.0</version>
 	<packaging>jar</packaging>
